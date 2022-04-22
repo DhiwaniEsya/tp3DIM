@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Login sebagai admin!
+                    Login sebagai role Manager!
                 </div>
             </div>
         </div>
